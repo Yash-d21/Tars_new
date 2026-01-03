@@ -1,20 +1,107 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TARS Networks
 
-# Run and deploy your AI Studio app
+**Architecting the future of digital platforms.**
 
-This contains everything you need to run your app locally.
+TARS Networks is a high-performance web development agency specializing in scalable mobile applications, robust system architecture, and production-ready software solutions.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1qaZFdl97xh-b-k0iMHDXHl8ptHQvu6zG
+## 🚀 Features
 
-## Run Locally
+- **Modern Portfolio Website** - Showcase of our work and capabilities
+- **3D TARS Robot** - Interactive 3D visualization with hover effects
+- **Mission Archive** - Comprehensive project portfolio with detailed views
+- **Flight Logs** - Latest projects and mission status tracking
+- **Responsive Design** - Optimized for all devices and screen sizes
+- **Smooth Animations** - Powered by Framer Motion
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+- **React** - UI framework
+- **TypeScript** - Type-safe development
+- **Vite** - Fast build tool and dev server
+- **Framer Motion** - Animation library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Icon library
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📋 Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+## 🏃 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Yash-d21/Tars_new.git
+   cd Tars_new
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` (or the port shown in your terminal)
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+The optimized production build will be in the `dist` directory.
+
+## 📁 Project Structure
+
+```
+tars-networks/
+├── components/          # React components
+│   ├── About.tsx       # About section
+│   ├── ArchiveView.tsx # Mission archive modal
+│   ├── Hero.tsx        # Hero section with TARS robot
+│   ├── Portfolio.tsx   # Flight logs and projects
+│   └── ...
+├── constants.ts        # Project data and constants
+├── types.ts           # TypeScript type definitions
+├── App.tsx            # Main app component
+└── index.tsx          # Entry point
+```
+
+## 🎯 Key Components
+
+- **Hero** - Landing section with interactive TARS robot
+- **About** - Founders and company information
+- **Services** - Our service offerings
+- **Process** - Our development workflow
+- **Portfolio** - Featured projects (Flight Logs)
+- **Archive** - Complete mission archive
+- **Testimonials** - Client testimonials
+
+## 🌟 Projects Featured
+
+- CLAT Community
+- CLAT AI
+- Bolt Abacus
+- Mehndi Sahiti
+- Currexx
+- Convert A2Z
+- Xperio & Public Sector
+- Sanjeev Kaliwala
+
+## 👥 Founders
+
+- **Yashwanth Devulapally** - Founder & CEO
+- **Mohd Asvaan Zuhair** - Co-founder & CTO
+
+## 📄 License
+
+© 2024 TARS Networks. All rights reserved.
+
+---
+
+**Built with precision. Designed for scale.**
