@@ -10,18 +10,18 @@ export const FOUNDERS: Founder[] = [
     image: yashwanthImage, 
     linkedin: 'https://www.linkedin.com/in/yashwanth-devulapally/',
     bio: [
-      "Designs product systems end-to-end, owning UI/UX, technical architecture, and scalability decisions.",
-      "Defines long-term platform direction, ensuring products are structurally sound and built to compound at scale."
+      "Architects products from first principle to orbit - design, systems, and scale.",
+      "Sets long-term platform direction so what's built today still holds under tomorrow's pressure."
     ]
   },
   {
     name: 'Mohd Asvaan Zuhair',
-    role: 'Cofounder CTO',
+    role: 'Cofounder & CTO',
     image: asvaanImage, 
     linkedin: 'https://www.linkedin.com/in/asvaan-zuhair-29b390336/',
     bio: [
-      "Drives shipping velocity across products, converting designs into production-ready systems.",
-      "Leads engineering execution and DevOps operations, maintaining speed, reliability, and delivery discipline."
+      "Turns ideas into production systems with speed and discipline.",
+      "Leads engineering and operations to ship fast, stay stable, and scale without cracks."
     ]
   },
 ];
