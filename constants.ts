@@ -6,7 +6,7 @@ import asvaanImage from './asvaan.jpg';
 export const FOUNDERS: Founder[] = [
   {
     name: 'Yashwanth Devulapally',
-    role: 'Founder & CEO',
+    role: 'CEO & Product Architect',
     image: yashwanthImage, 
     linkedin: 'https://www.linkedin.com/in/yashwanth-devulapally/',
     bio: [
@@ -16,7 +16,7 @@ export const FOUNDERS: Founder[] = [
   },
   {
     name: 'Mohd Asvaan Zuhair',
-    role: 'Cofounder & CTO',
+    role: 'CTO & Principal Strategist',
     image: asvaanImage, 
     linkedin: 'https://www.linkedin.com/in/asvaan-zuhair-29b390336/',
     bio: [
